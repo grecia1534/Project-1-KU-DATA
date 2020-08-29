@@ -1,9 +1,9 @@
 # Project 1: Dude, where’s my paycheck?
 ## Team Members:
-- Ricardo Dominguez
 - Benjamin Raehpour
 - Grecia Acosta
 - Kevin Athey
+- Ricardo Dominguez
 
 ## Project Description:
 - Looking at Paycheck Protection Program (PPP) loan data to uncover insights into the effectiveness of the program.
