@@ -11,7 +11,8 @@
 
 ## Research Questions to Answer:
 - How much of the loans went to “small businesses?”
-- Impact distribution: tracking PPP loan data against unemployment rate and other demographic factors.
+- Impact distribution: tracking PPP loan data against demographic factors (poverty rate, race, etc).
+- How did the PPP loans impact KS and MO separately?
 
 ## Datasets to Be Used:
 - FOIA PPP Loan Data: Treasury Dept CSV
